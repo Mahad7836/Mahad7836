@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Mahad</h1>
+<h1 align="center">Hey there! 👋 I'm Mahad Aqeel</h1>
 
 <p align="center">
 🛡️ Cybersecurity Enthusiast | 🎓 BS Cybersecurity @ GIKI (2027) <br>
@@ -11,7 +11,7 @@
 
 - 🎓 Junior at **GIKI**, pursuing **BS in Cybersecurity** (Class of 2027)
 - 🎯 Goal: Become a **Cybersecurity Researcher/Professional**
-- 👾 Solved over **60+ CTFs** (and counting) — sharing writeups and challenges
+- 👾 Solved over **80+ CTFs** (and counting) — sharing writeups and challenges
 - 🧰 Hands-on with tools: **Wireshark**, **BurpSuite**, **Nessus**, **Kali Linux**, **Metasploit**
 - 🔐 Familiar with **ISO 27001 audits**, **Aramco CCC**, and security compliance basics
 - ✍️ I write monthly on [Medium](#) about cybersecurity & tech
@@ -38,7 +38,7 @@ Here are some of my most active or interesting projects 👇
 ### 🔓 Cybersecurity Projects
 
 - 🧠 [`selfcyb3r`](https://github.com/Mahad7836/selfcyb3r): Cybersecurity theory notes, summaries & cheatsheets.
-- 🛠️ [`CTF_writeups`](https://github.com/Mahad7836/CTF_writeups): Solved 60+ CTFs. Ongoing writeups & solutions.
+- 🛠️ [`CTF_writeups`](https://github.com/Mahad7836/CTF_writeups): Solved 80+ CTFs. Ongoing writeups & solutions.
 - 🔍 [`Ethical_Hacking_Scanning_Networks`](https://github.com/Mahad7836/Ethical_Hacking_Scanning_Networks): Lab resources for CEH v12 (Scanning, Nmap, Wireshark, etc).
 - 🎭 [`Secure_Face_Recognition_Auth_System`](https://github.com/Mahad7836/-Secure_Face_Recognition_Auth_System): Full-stack secure login system w/ facial recognition.
 
