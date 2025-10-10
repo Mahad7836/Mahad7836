@@ -53,8 +53,7 @@ Here are some of my most active or interesting projects 👇
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahad7836&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahad7836&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahad7836&show_icons=true&theme=tokyonight" width="55%" />
 </p>
 
 ---
