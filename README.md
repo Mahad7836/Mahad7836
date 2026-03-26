@@ -1,14 +1,15 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0f3460&height=200&section=header&text=Mahad%20Aqeel&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Researcher%20in%20the%20Making&descAlignY=60&descColor=8b949e&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0f3460&height=200&section=header&text=Mahad%20Aqeel&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=GRC%20%C3%97%20AI%20%C3%97%20Cybersecurity%20%7C%20Security%20Researcher&descAlignY=60&descColor=8b949e&descSize=18" />
 
 <!-- TYPING SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=BS+Cybersecurity+%40+GIKI+%E2%80%94+Class+of+2027;80%2B+CTFs+Solved+%F0%9F%9A%A9;Ethical+Hacking+%7C+Security+Research;Wireshark+%7C+BurpSuite+%7C+Metasploit;Building+a+Safer+Digital+World+%F0%9F%94%90" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=GRC+%C3%97+AI+%C3%97+Cybersecurity;TryHackMe%3A+Top+8%25+Globally+%F0%9F%9A%A9;80%2B+CTFs+Solved+%7C+Offensive+%2B+Defensive;ISO+27001+%7C+Aramco+CCC+%7C+GRC+Practitioner;BS+Cybersecurity+%40+GIKI+%E2%80%94+Class+of+2027;Exploring+AI+Applications+in+Security" alt="Typing SVG" />
 
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/Mahad7836?label=Followers&style=flat-square&color=58a6ff&labelColor=0d1117)](https://github.com/Mahad7836)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%208%25-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/mahad.aqeel7)
 [![Medium](https://img.shields.io/badge/Medium-@mahad.aqeel7-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@mahad.aqeel7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahad%20Aqeel-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahad-aqeel-b62999245/)
 [![Profile Views](https://komarev.com/ghpvc/?username=Mahad7836&label=Profile+Views&color=58a6ff&style=flat-square)](https://github.com/Mahad7836)
@@ -25,14 +26,20 @@ $ whoami
 
 $ cat /etc/profile.d/mahad.conf
   🎓  Junior @ GIKI — BS Cybersecurity (Class of 2027)
-  🎯  Goal: Cybersecurity Researcher & Security Professional
-  👾  80+ CTFs Solved — Writeups available on GitHub
-  🔐  Familiar with ISO 27001 Audits & Aramco CCC Compliance
-  ✍️   Monthly Writer on Medium — Cybersecurity & Tech
+  🎯  Focus : GRC x AI x Cybersecurity — where compliance meets intelligence
+  👾  TryHackMe Top 8% Globally | 80+ CTFs Solved
+  🔐  ISO 27001 & Aramco CCC — hands-on GRC internship experience
+  🤖  Researching AI applications in security governance & threat detection
+  ✍️   10 articles on Medium — GRC, AI, cryptography, networking
   📍  Pakistan
+
+$ cat current_status.log
+  [ACTIVE]  Exploring the intersection of LLMs and security policy automation
+  [ACTIVE]  CTF writeups — ongoing
+  [ACTIVE]  Writing monthly on Medium
 ```
 
-> *"Security is not a product, but a process."* — Bruce Schneier
+> *"If you know the enemy and know yourself, you need not fear the result of a hundred battles."* — Sun Tzu
 
 ---
 
@@ -49,7 +56,6 @@ $ cat /etc/profile.d/mahad.conf
 ### 🔵 Defensive & Analysis
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nessus](https://img.shields.io/badge/Nessus-00B388?style=for-the-badge&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 
 ### 💻 Languages & Dev
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -58,8 +64,8 @@ $ cat /etc/profile.d/mahad.conf
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 📋 Compliance & Frameworks
-![ISO 27001](https://img.shields.io/badge/ISO_27001-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+### 📋 GRC & Compliance
+![ISO 27001](https://img.shields.io/badge/ISO_27001-0078D4?style=for-the-badge&logoColor=white)
 ![Aramco CCC](https://img.shields.io/badge/Aramco_CCC-007749?style=for-the-badge&logoColor=white)
 ![CEH v12](https://img.shields.io/badge/CEH_v12-D32F2F?style=for-the-badge&logoColor=white)
 
@@ -91,15 +97,29 @@ $ cat /etc/profile.d/mahad.conf
 ## 🚩 CTF Journey
 
 ```
-╔══════════════════════════════════════════════════════╗
-║           CTF SCOREBOARD — Mahad Aqeel               ║
-╠══════════════════════════════════════════════════════╣
-║  Total Solved      │  80+ Challenges  🚩             ║
-║  Categories        │  Web, Forensics, Crypto, OSINT  ║
-║  Platform Focus    │  PicoCTF, HackTheBox, TryHackMe ║
-║  Writeups Repo     │  github.com/Mahad7836           ║
-╚══════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════╗
+║              CTF SCOREBOARD — Mahad Aqeel                ║
+╠══════════════════════════════════════════════════════════╣
+║  TryHackMe Rank    │  Top 8% Globally                    ║
+║  Total Solved      │  80+ Challenges                     ║
+║  Categories        │  Web, Forensics, Crypto, OSINT      ║
+║  Platforms         │  TryHackMe · HackTheBox · PicoCTF   ║
+║  Writeups          │  github.com/Mahad7836/CTF_writeups  ║
+╚══════════════════════════════════════════════════════════╝
 ```
+
+[![TryHackMe Profile](https://img.shields.io/badge/View%20THM%20Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/mahad.aqeel7)
+
+---
+
+## 🔬 What I'm Working On
+
+> I sit at the intersection of **GRC**, **AI**, and **hands-on security** — an angle most practitioners don't reach until mid-career. Here's what that looks like in practice:
+
+- 🤖 **AI × Security Governance** — Researching how LLMs can assist in policy analysis, compliance automation, and risk assessment workflows
+- 🛡️ **GRC in the Real World** — Applied ISO 27001 and Aramco CCC frameworks in live audit environments, not just theory
+- 🔓 **Offensive Foundations** — Continuous CTF practice to keep the technical edge sharp while building in governance
+- ✍️ **Public Writing** — Translating complex security topics for both technical and non-technical audiences on Medium
 
 ---
 
@@ -109,10 +129,9 @@ $ cat /etc/profile.d/mahad.conf
 
 | 🔒 Security | 💻 Dev |
 |---|---|
-| [**selfcyb3r**](https://github.com/Mahad7836/selfcyb3r) — Cybersecurity theory notes, cheatsheets & summaries | [**Classical Ciphers in C++**](https://github.com/Mahad7836/Implementation-and-Analysis-of-Classical-Cipher-Mechanisms-in-C-) — Cipher simulations & analysis |
-| [**CTF Writeups**](https://github.com/Mahad7836/CTF_writeups) — 80+ solved CTF challenges with detailed walkthroughs | [**Von Neumann 2.0**](https://github.com/Mahad7836/Von_Neumann_2.0) — Python-based Von Neumann architecture simulator |
-| [**Ethical Hacking Labs**](https://github.com/Mahad7836/Ethical_Hacking_Scanning_Networks) — CEH v12 lab resources: Nmap, Wireshark & more | [**Flight Reservation System**](https://github.com/Mahad7836/Flight_Ticket_Reservation_System_in_C-) — Menu-based C++ booking system |
-| [**Secure Face Auth**](https://github.com/Mahad7836/-Secure_Face_Recognition_Auth_System) — Full-stack login system with facial recognition | |
+| [**selfcyb3r**](https://github.com/Mahad7836/selfcyb3r) — Personal cybersecurity knowledge base: theory, cheatsheets & summaries | [**Classical Ciphers in C++**](https://github.com/Mahad7836/Implementation-and-Analysis-of-Classical-Cipher-Mechanisms-in-C-) — Cipher simulations & cryptanalysis |
+| [**CTF Writeups**](https://github.com/Mahad7836/CTF_writeups) — 80+ solved challenges across Web, Forensics, Crypto & OSINT | [**Von Neumann 2.0**](https://github.com/Mahad7836/Von_Neumann_2.0) — Python-based Von Neumann architecture simulator |
+| [**Ethical Hacking Labs**](https://github.com/Mahad7836/Ethical_Hacking_Scanning_Networks) — CEH v12 lab resources: scanning, enumeration & analysis | [**Secure Face Auth**](https://github.com/Mahad7836/-Secure_Face_Recognition_Auth_System) — Full-stack login system with facial recognition |
 
 </div>
 
@@ -129,7 +148,7 @@ $ cat /etc/profile.d/mahad.conf
 - 🔐 [The Art of Cryptography](https://medium.com/@mahad.aqeel7/the-art-of-cryptography-7c39fa704f4f) — *Nov 2025*
 <!-- BLOG-POST-LIST:END -->
 
-> 📌 10 articles published — covering GRC, cryptography, AI, networking & more. [See all →](https://medium.com/@mahad.aqeel7)
+> 📌 10 articles published — GRC, AI, cryptography, networking & more. [See all →](https://medium.com/@mahad.aqeel7)
 
 ---
 
@@ -146,6 +165,7 @@ $ cat /etc/profile.d/mahad.conf
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Mahad7836-181717?style=for-the-badge&logo=github)](https://github.com/Mahad7836)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%208%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/mahad.aqeel7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahad-aqeel-b62999245/)
 [![Medium](https://img.shields.io/badge/Medium-Follow-12100E?style=for-the-badge&logo=medium)](https://medium.com/@mahad.aqeel7)
 
@@ -157,6 +177,6 @@ $ cat /etc/profile.d/mahad.conf
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1f35,100:0d1117&height=100&section=footer" />
 
-*"The quieter you become, the more you are able to hear."* 🐧
+*"Know the enemy, know yourself — in a hundred battles, you will never be in peril."* — Sun Tzu
 
 </div>
