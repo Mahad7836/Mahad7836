@@ -1,75 +1,159 @@
-<h1 align="center">Hey there! 👋 I'm Mahad Aqeel</h1>
+<div align="center">
 
-<p align="center">
-🛡️ Cybersecurity Enthusiast | 🎓 BS Cybersecurity @ GIKI (2027) <br>
-🔍 Aspiring Security Researcher | 🐧 Hands-on with CTFs, Linux, and real-world tools
-</p>
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0f3460&height=200&section=header&text=Mahad%20Aqeel&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Researcher%20in%20the%20Making&descAlignY=60&descColor=8b949e&descSize=18" />
 
----
+<!-- TYPING SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=BS+Cybersecurity+%40+GIKI+%E2%80%94+Class+of+2027;80%2B+CTFs+Solved+%F0%9F%9A%A9;Ethical+Hacking+%7C+Security+Research;Wireshark+%7C+BurpSuite+%7C+Metasploit;Building+a+Safer+Digital+World+%F0%9F%94%90" alt="Typing SVG" />
 
-## 🧠 About Me
+<br/>
 
-- 🎓 Junior at **GIKI**, pursuing **BS in Cybersecurity** (Class of 2027)
-- 🎯 Goal: Become a **Cybersecurity Researcher/Professional**
-- 👾 Solved over **80+ CTFs** (and counting) — sharing writeups and challenges
-- 🧰 Hands-on with tools: **Wireshark**, **BurpSuite**, **Nessus**, **Kali Linux**, **Metasploit**
-- 🔐 Familiar with **ISO 27001 audits**, **Aramco CCC**, and security compliance basics
-- ✍️ I write monthly on [Medium](#) about cybersecurity & tech
+[![GitHub followers](https://img.shields.io/github/followers/Mahad7836?label=Followers&style=flat-square&color=58a6ff&labelColor=0d1117)](https://github.com/Mahad7836)
+[![Medium](https://img.shields.io/badge/Medium-@mahad.aqeel7-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@mahad.aqeel7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahad%20Aqeel-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahad-aqeel-b62999245/)
+[![Profile Views](https://komarev.com/ghpvc/?username=Mahad7836&label=Profile+Views&color=58a6ff&style=flat-square)](https://github.com/Mahad7836)
 
----
-
-## 🛠️ Tech & Tools
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-F47B20?style=flat&logo=burpsuite&logoColor=white)
-![Nessus](https://img.shields.io/badge/Nessus-0099CC?style=flat&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+</div>
 
 ---
 
-## 📂 Featured Repositories
+## 🧠 whoami
 
-Here are some of my most active or interesting projects 👇
+```bash
+$ whoami
+  mahad_aqeel
 
-### 🔓 Cybersecurity Projects
+$ cat /etc/profile.d/mahad.conf
+  🎓  Junior @ GIKI — BS Cybersecurity (Class of 2027)
+  🎯  Goal: Cybersecurity Researcher & Security Professional
+  👾  80+ CTFs Solved — Writeups available on GitHub
+  🔐  Familiar with ISO 27001 Audits & Aramco CCC Compliance
+  ✍️   Monthly Writer on Medium — Cybersecurity & Tech
+  📍  Pakistan
+```
 
-- 🧠 [`selfcyb3r`](https://github.com/Mahad7836/selfcyb3r): Cybersecurity theory notes, summaries & cheatsheets.
-- 🛠️ [`CTF_writeups`](https://github.com/Mahad7836/CTF_writeups): Solved 80+ CTFs. Ongoing writeups & solutions.
-- 🔍 [`Ethical_Hacking_Scanning_Networks`](https://github.com/Mahad7836/Ethical_Hacking_Scanning_Networks): Lab resources for CEH v12 (Scanning, Nmap, Wireshark, etc).
-- 🎭 [`Secure_Face_Recognition_Auth_System`](https://github.com/Mahad7836/-Secure_Face_Recognition_Auth_System): Full-stack secure login system w/ facial recognition.
-
-### 💻 Programming & Systems
-
-- 🔐 [`Implementation-and-Analysis-of-Classical-Cipher-Mechanisms-in-C-`](https://github.com/Mahad7836/Implementation-and-Analysis-of-Classical-Cipher-Mechanisms-in-C-): Classical cipher simulations & analysis in C++.
-- ✈️ [`Flight_Ticket_Reservation_System`](https://github.com/Mahad7836/Flight_Ticket_Reservation_System_in_C-): Menu-based flight booking system in C++.
-- 🧮 [`Von_Neumann_2.0`](https://github.com/Mahad7836/Von_Neumann_2.0): Python-based simulator of Von Neumann architecture.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahad7836&show_icons=true&theme=tokyonight" width="55%" />
-</p>
+> *"Security is not a product, but a process."* — Bruce Schneier
 
 ---
 
-## 📰 Latest Blogs
+## ⚔️ Arsenal
 
-- 📌 [Phishing Awareness & Prevention: A Critical Guide to Protecting Yourself and Your Company](https://medium.com/@mahad.aqeel7/phishing-awareness-prevention-a-critical-guide-to-protecting-yourself-and-your-company-0dfce9c32375)
-- 📌 [Malware, Ransomware, and You: Why You Should Care (Even if You’re Not in IT)](https://medium.com/@mahad.aqeel7/malware-ransomware-and-you-why-you-should-care-even-if-youre-not-in-it-1bc9aa234f4f)
-- 📌 [🧠 DNS, DHCP, IP, MAC, TCP, ARP, etc. — Broken Down into Bits!](https://medium.com/@mahad.aqeel7/dns-dhcp-ip-mac-tcp-arp-etc-broken-down-into-bits-53ca88ed5b2a)
+<div align="center">
+
+### 🔴 Offensive Security
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-F47B20?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4E9BCD?style=for-the-badge&logo=nmap&logoColor=white)
+
+### 🔵 Defensive & Analysis
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00B388?style=for-the-badge&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+
+### 💻 Languages & Dev
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 📋 Compliance & Frameworks
+![ISO 27001](https://img.shields.io/badge/ISO_27001-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Aramco CCC](https://img.shields.io/badge/Aramco_CCC-007749?style=for-the-badge&logoColor=white)
+![CEH v12](https://img.shields.io/badge/CEH_v12-D32F2F?style=for-the-badge&logoColor=white)
+
+</div>
 
 ---
 
-## 🤝 Connect with Me
+## 📊 GitHub Stats
 
-<p align="left">
-  <a href="https://github.com/Mahad7836"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /></a>
-  <a href="https://medium.com/@mahad.aqeel7"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mahad-aqeel-b62999245/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahad7836&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahad7836&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahad7836&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="40%" />
+</div>
+
+---
+
+## 🏆 Trophy Case
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mahad7836&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=4" />
+</div>
+
+---
+
+## 🚩 CTF Journey
+
+```
+╔══════════════════════════════════════════════════════╗
+║           CTF SCOREBOARD — Mahad Aqeel               ║
+╠══════════════════════════════════════════════════════╣
+║  Total Solved      │  80+ Challenges  🚩             ║
+║  Categories        │  Web, Forensics, Crypto, OSINT  ║
+║  Platform Focus    │  PicoCTF, HackTheBox, TryHackMe ║
+║  Writeups Repo     │  github.com/Mahad7836           ║
+╚══════════════════════════════════════════════════════╝
+```
+
+---
+
+## 📂 Featured Projects
+
+<div align="center">
+
+| 🔒 Security | 💻 Dev |
+|---|---|
+| [**selfcyb3r**](https://github.com/Mahad7836/selfcyb3r) — Cybersecurity theory notes, cheatsheets & summaries | [**Classical Ciphers in C++**](https://github.com/Mahad7836/Implementation-and-Analysis-of-Classical-Cipher-Mechanisms-in-C-) — Cipher simulations & analysis |
+| [**CTF Writeups**](https://github.com/Mahad7836/CTF_writeups) — 80+ solved CTF challenges with detailed walkthroughs | [**Von Neumann 2.0**](https://github.com/Mahad7836/Von_Neumann_2.0) — Python-based Von Neumann architecture simulator |
+| [**Ethical Hacking Labs**](https://github.com/Mahad7836/Ethical_Hacking_Scanning_Networks) — CEH v12 lab resources: Nmap, Wireshark & more | [**Flight Reservation System**](https://github.com/Mahad7836/Flight_Ticket_Reservation_System_in_C-) — Menu-based C++ booking system |
+| [**Secure Face Auth**](https://github.com/Mahad7836/-Secure_Face_Recognition_Auth_System) — Full-stack login system with facial recognition | |
+
+</div>
+
+---
+
+## ✍️ Latest on Medium
+
+<!-- BLOG-POST-LIST:START -->
+- 🎣 [Phishing Awareness & Prevention: A Critical Guide to Protecting Yourself and Your Company](https://medium.com/@mahad.aqeel7/phishing-awareness-prevention-a-critical-guide-to-protecting-yourself-and-your-company-0dfce9c32375)
+- 🦠 [Malware, Ransomware, and You: Why You Should Care (Even if You're Not in IT)](https://medium.com/@mahad.aqeel7/malware-ransomware-and-you-why-you-should-care-even-if-youre-not-in-it-1bc9aa234f4f)
+- 🌐 [DNS, DHCP, IP, MAC, TCP, ARP, etc. — Broken Down into Bits!](https://medium.com/@mahad.aqeel7/dns-dhcp-ip-mac-tcp-arp-etc-broken-down-into-bits-53ca88ed5b2a)
+<!-- BLOG-POST-LIST:END -->
+
+> 📌 Publishing monthly on cybersecurity, networking, and tech for all skill levels.
+
+---
+
+## 📡 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahad7836&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&hide_border=true" width="95%" />
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Mahad7836-181717?style=for-the-badge&logo=github)](https://github.com/Mahad7836)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahad-aqeel-b62999245/)
+[![Medium](https://img.shields.io/badge/Medium-Follow-12100E?style=for-the-badge&logo=medium)](https://medium.com/@mahad.aqeel7)
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1f35,100:0d1117&height=100&section=footer" />
+
+*"The quieter you become, the more you are able to hear."* 🐧
+
+</div>
