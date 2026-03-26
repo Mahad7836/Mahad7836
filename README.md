@@ -121,12 +121,15 @@ $ cat /etc/profile.d/mahad.conf
 ## ✍️ Latest on Medium
 
 <!-- BLOG-POST-LIST:START -->
-- 🎣 [Phishing Awareness & Prevention: A Critical Guide to Protecting Yourself and Your Company](https://medium.com/@mahad.aqeel7/phishing-awareness-prevention-a-critical-guide-to-protecting-yourself-and-your-company-0dfce9c32375)
-- 🦠 [Malware, Ransomware, and You: Why You Should Care (Even if You're Not in IT)](https://medium.com/@mahad.aqeel7/malware-ransomware-and-you-why-you-should-care-even-if-youre-not-in-it-1bc9aa234f4f)
-- 🌐 [DNS, DHCP, IP, MAC, TCP, ARP, etc. — Broken Down into Bits!](https://medium.com/@mahad.aqeel7/dns-dhcp-ip-mac-tcp-arp-etc-broken-down-into-bits-53ca88ed5b2a)
+- 🔑 [Authentication is Not Just Passwords](https://medium.com/@mahad.aqeel7/authentication-is-not-just-passwords-a652f17d2091) — *Mar 2026*
+- 📋 [ISO 27001 in the Real World: The Parts No One Tells You About](https://medium.com/@mahad.aqeel7/iso-27001-in-the-real-world-the-parts-no-one-tells-you-about-bf0416886d5a) — *Feb 2026*
+- 🛡️ [Why Security Controls Fail in Practice](https://medium.com/@mahad.aqeel7/why-security-controls-fail-in-practice-39cdc7c322f9) — *Feb 2026*
+- 🧠 [What Finally Clicked About Neural Networks, LLMs, and Attention](https://medium.com/@mahad.aqeel7/what-finally-clicked-about-neural-networks-llms-and-attention-cbb69fdb5364) — *Jan 2026*
+- 📁 [What I Learned in My First Experience in GRC — ISO 27001:2022](https://medium.com/@mahad.aqeel7/what-i-learned-in-my-first-experience-in-grc-iso27001-2022-d7c1b378c047) — *Dec 2025*
+- 🔐 [The Art of Cryptography](https://medium.com/@mahad.aqeel7/the-art-of-cryptography-7c39fa704f4f) — *Nov 2025*
 <!-- BLOG-POST-LIST:END -->
 
-> 📌 Publishing monthly on cybersecurity, networking, and tech for all skill levels.
+> 📌 10 articles published — covering GRC, cryptography, AI, networking & more. [See all →](https://medium.com/@mahad.aqeel7)
 
 ---
 
